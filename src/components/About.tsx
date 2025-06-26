@@ -45,7 +45,7 @@ const About: React.FC = () => {
                 <p className="text-slate-600 leading-relaxed">
                   I'm an aspiring data science and machine learning enthusiast currently pursuing B.Tech in 
                   Computer Science Engineering with specialization in Data Science at Madanapalle Institute 
-                  of Technology & Science. With a strong academic record of 92.5% aggregate, I'm passionate 
+                  of Technology & Science. With a strong academic record of 9.75 CGPA, I'm passionate 
                   about transforming data into actionable insights.
                 </p>
                 <p className="text-slate-600 leading-relaxed">

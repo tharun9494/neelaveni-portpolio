@@ -10,7 +10,7 @@ const Education: React.FC = () => {
       degree: 'B.Tech – CSE (Data Science)',
       institution: 'Madanapalle Institute of Technology & Science',
       period: 'Pursuing',
-      grade: '92.5% Aggregate',
+      grade: '9.75 CGPA',
       status: 'current',
       description: 'Specializing in Data Science with focus on Machine Learning, Deep Learning, and Analytics'
     },

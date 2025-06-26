@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
             <span className="text-sm">22691A3268@mits.ac.in</span>
           </div>
           <div className="flex items-center justify-center space-x-2 text-slate-600">
-            <span className="text-sm">CGPA: 9.25/10</span>
+            <span className="text-sm">CGPA: 9.75/10</span>
           </div>
         </div>
 
